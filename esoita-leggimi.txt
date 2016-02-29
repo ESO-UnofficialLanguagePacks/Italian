@@ -1,0 +1,48 @@
+﻿Esoita. Traduzione di The Elder Scrolls Online in Italiano
+creato per:
+
+www.esoitalia.it - Il Portale Italiano di Elder Scrolls Online
+-------------------------------------------------------------
+
+QUESTO MATERIALE NON È CREATO, GARANTITO O SUPPORTATO DA ZENIMAX
+ONLINE STUDIOS NÉ ALCUNA DELLE SOCIETÀ AFFILIATE.
+
+Limitazione di Responsabilità
+---------------------------
+
+QUESTO MATERIALE È DISTRIBUITO NELLA SPERANZA CHE RISULTI UTILE, 
+SENZA ALCUNA GARANZIA, INCLUSA LA GARANZIA IMPLICITA ALLA VENDITA 
+E SENZA GARANZIA VERSO USI PARTICOLARI.
+
+SE NON SIETE D'ACCORDO CON I TERMINI SOPRA ESPOSTI,
+NON USATE QUESTO MATERIALE. IL SUO UTILIZZO IMPLICA 
+L'ACCETTAZIONE DEI TERMINI QUI SOPRA.
+
+Installazione (PC)
+-----------
+
+La traduzione è costituita da tre cartelle che contengono degli archivi. 
+Tutte e tre devono essere installate nella cartella Addon del gioco:
+
+Documents\Elder Scrolls Online\liveeu\AddOns\Esoita
+Documents\Elder Scrolls Online\liveeu\AddOns\EsoUI
+Documents\Elder Scrolls Online\liveeu\AddOns\gamedata
+
+Per abilitare la traduzione devi attivarla nel gioco come qualsiasi 
+altro addon. Se non hai ancora creato personaggi dovrai crearne almeno uno
+per poter attivare l'addon. Una volta creato dovrai uscire alla schermata 
+di scelta dei personaggi ed attivare l'Addon "Esoita".
+
+A quel punto dovrai solamente cambiare la lingua dal launcher del gioco!
+
+
+NOVITA' VERSIONE 0.106
+------------
+
+- L'Addon funziona nuovamente (grazie Zenimax!)
+- Tradotta parte di Orsinium DLC
+
+
+Si ringrazia per la gentile collaborazione alla creazione dell'Addon
+Jorge di Cervanteso e tutta la comunità del ESO-UnofficialLanguagePack
+senza il quale questo addon non sarebbe stato possibile.
